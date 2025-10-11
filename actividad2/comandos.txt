@@ -1,10 +1,10 @@
 ping (ip router) (red externa)
 ipconfig/all
 ipconfig
-ping 8.8.8.8
-tracert
+tracert 8.8.8.8
 netstat
 pin google.com
 ipconfig/renew
 ipconfig/release
+
 
