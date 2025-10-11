@@ -1,0 +1,5 @@
+hoy use la herramienta escalidraw hize un esquema de mi casa de todos los dispositivos finales conectados al router
+ instale la extension de excalidraw en vscode tambien aprendi a crear archivos de excalidraw que seria utilizando 
+ el comando .excalidraw tambien vi las herramientas de excalidraw que son circulos,lineas,cuadros colores y flechas,
+ en el plano puse cuadros que serian televisiones, rectangulos como telefonos tambien las lineas de colecciones
+ y el router representado como un cuadro pequeño con flechas.
