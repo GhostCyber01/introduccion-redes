@@ -1,0 +1,10 @@
+ping (ip router) (red externa)
+ipconfig/all
+ipconfig
+ping 8.8.8.8
+tracert
+netstat
+pin google.com
+ipconfig/renew
+ipconfig/release
+
