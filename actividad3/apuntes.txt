@@ -1,5 +1,6 @@
 
-Cloud	Internet como recurso,Desktop	PC Fija,End Point	Fin de la conexión,Router	Dirige redes,Firewall	Bloquea amenazas,
+Cloud	Internet como recurso,Desktop	PC Fija,End Point	Fin de la conexión,Router Dirige redes,Firewall	Bloquea amenazas,
 Laptop	PC Portátil,Layer 3 Switch	Switch que Enruta,Radio Tower	Soporte de Antenas,Router Firewall	Router + Seguridad,
 Server	Provee servicios,Smartphone	Teléfono PC móvil,Smart TV	TV con Apps,Wireless Access Controller	Administrador de Wi-Fi
 Wireless Antenna	Transmite Radio,Wireless Router	Wi-Fi de hogar.
+
