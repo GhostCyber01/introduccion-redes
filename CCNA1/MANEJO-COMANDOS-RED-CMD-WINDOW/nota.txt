@@ -1,0 +1,8 @@
+Comandos para ver configuraciones y informaciones de redes.
+comandos utilizados:
+ipconfig/all
+ipconfig/release
+ipconfig/renew
+ping (ip router)
+ping google.com
+todos usando la central de comandos (cmd) 
